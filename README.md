@@ -41,12 +41,18 @@ Results-driven software engineer with expertise in computer vision, IoT systems,
 ![Edge AI](https://img.shields.io/badge/Edge_AI-Embedded_ML-success?style=for-the-badge)
 
 ### Web Development & Backend
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Specialized Domains
 * **Kernel Implementation:** Vectorization of image processing algorithms (SIMD) for high-performance computing.
@@ -124,8 +130,8 @@ Distributed computer vision IoT system for real-time image classification using 
 * Experience with edge computing and resource-constrained ML deployment.
 
 **Full-Stack Web Development**
-* Built production-ready web applications using modern JavaScript frameworks.
-* Database design and backend API development with Node.js and Python.
+* Built production-ready web applications using Next.js and modern JavaScript frameworks.
+* Database design and backend API development with PostgreSQL, MySQL, and MongoDB.
 
 ---
 
